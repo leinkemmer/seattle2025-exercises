@@ -1,4 +1,4 @@
-To build the program you need a C++ Compiler with OpenMP support and CMake and a Fortran compiler. We have test this on Unix based systems (including WSL on Windows). To compile the program 
+To build the program you need a C++ Compiler with OpenMP support and CMake and a Fortran compiler. We have tested this on Unix based systems (including WSL on Windows). To compile the program 
 ```
 mkdir build
 cd build
